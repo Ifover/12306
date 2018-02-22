@@ -1,0 +1,8 @@
+https://kyfw.12306.cn/otn/leftTicket/queryZ?leftTicketDTO.train_date=2018-02-12&leftTicketDTO.from_station=VRH&leftTicketDTO.to_station=HGH&purpose_codes=ADULT
+https://kyfw.12306.cn/otn/leftTicket/queryZ?
+	leftTicketDTO.train_date:2018-02-12
+	leftTicketDTO.from_station:VRH
+	leftTicketDTO.to_station:HGH
+	purpose_codes:ADULT
+	
+https://kyfw.12306.cn/otn/resources/js/framework/station_name.js?station_version=1.9047
